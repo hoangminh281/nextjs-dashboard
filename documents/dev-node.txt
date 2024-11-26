@@ -1,0 +1,6 @@
+Z-Index Guidelines:
+
+- 0-99: Backgrounds and content
+- 100-199: Sticky headers and footers
+- 200-299: Dropdowns and popups
+- 300+: Modals and overlays
